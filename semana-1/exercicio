@@ -1,0 +1,24 @@
+1.Defina com suas palavras o que é Data Analytics.
+Data Analytics é a utilização de processos, técnicas e ferramentas a fim de extrair insights que possam gerar valor o negócio bem como no apoio a tomada de decisões.
+
+2.Quais as habilidades essenciais de um analista de dados? Você já possui alguma dessas habilidades?
+
+As habilidades essenciais para um analista de dados é gostar de números, ter um pensamento analítico, gostar de resolver problemas, ser bom em detectar padrões, saber SQL, ferramentas de visualização e ter um bom storytelling. 
+Eu gosto de números, gosto de detectar padrões e tenho conhecimento básico de SQL, preciso melhorar a capacidade analítica bem como aprender sobre as ferramentas de visualização de dados e práticas de storytelling.
+
+3.Descreva as macro etapas e processos pelos quais passa um projeto de Data Analytics.
+
+Etapa de Aquisição dos dados: Onde é feita a extração dos dados.
+Etapa de Preparação dos dados: Nessa etapa é feita a limpeza dos dados.
+Etapa de Análise: Onde começa a análise dos dados a fim de responder perguntas do negócio como também a geração de novas perguntas.
+Etapa de Ação: Onde é feita a apresentação visual das informações e também a comunicação através do storytelling.
+
+4.Quais são as principais ferramentas e linguagens de Data Analytics?
+
+Ferramentas: SGBD’s, SQL, ETL, ferramentas de visualização, algumas técnicas de estatística.
+Linguagens: Python e R.
+
+5.Quais as diferenças entre Data Analytics, Business Intelligence e Data Science?
+
+O data analytics trabalha com o dado de ponta a ponta, desde a aquisição até a apresentação, o BI já trabalha intermediando como uma ponte entre a parte final da análise e o negócio e o Cientista de dados trabalha com mais ênfase em algoritmos, estatística e matemática mais avançada, machine learning e também tem conhecimento sobre o negócio.
+
