@@ -1,0 +1,17 @@
+1- Qual a diferença entre bases de dados transacionais e analíticas (OLTP e OLAP)?
+
+  R: No que se refere a bases de dados transacionais (OLTP), entendo que sejam bases de dados que estão ligadas as operações de uma empresa e a seus sistemas, armazenando dados
+  gerados por essas transações. 
+  Já as bases de dados analíticas (OLAP), são utilizadas com um foco mais gerencial, como o próprio nome indica são bases onde podemos analisar os dados que foram armazenados
+  através de transações e obter algum conhecimento.
+
+2- Defina com suas palavras o que é um data lake.
+  R: O Data Lake é um repositório que centraliza todos os dados da empresa de forma bruta e não estruturada, para que possam ou não ser utlizados/analisados posteriormente
+  para alguma finalidade/estratégia da empresa.
+
+3- Defina com suas palavras o que é um data warehouse.
+  R: O data Warehouse, ao contrário do Data Lake, já dispõe dados estruturados, organizados, tratados, para consultas e análises.
+  
+4- Defina com suas próprias palavras o que é NoSQL.
+  R: São bancos de dados não relacionais, ou seja não utilizam o conceito de tabelas. Geralmente são utilizados em ambientes que requerem um alto desempenho, e armazenamento
+  de grandes quantidades de dados. Um exemplo de banco de dados NoSql é MongoDB que é baseado no modelo de documento.
